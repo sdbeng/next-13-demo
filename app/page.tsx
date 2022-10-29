@@ -6,11 +6,11 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js 13!</a>
+          PR to <a href="https://nextjs.org">Next.js 13!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          nextjs is a backend framework!{' '}
           <code className={styles.code}>app/page.tsx</code>
         </p>
 
